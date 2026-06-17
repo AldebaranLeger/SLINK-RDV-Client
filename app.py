@@ -28,10 +28,12 @@ st.markdown("""
     html, body, [data-testid="stAppViewContainer"] {
         font-family: 'Figtree', sans-serif !important;
         background-color: var(--mint-cream) !important;
-        color: #19323c !important;
+        color: var(--jet-black) !important;
     }
+
+    label {color: var(--jet-black) !important;}
     
-    h1, h2, h3 { color: #19323c !important; }
+    h1, h2, h3 { color: var(--jet-black) !important; }
     
     .stTabs [data-baseweb="tab"] {
         color: var(--smoky-rose) !important;
