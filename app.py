@@ -24,7 +24,6 @@ st.markdown("""
 st.title("📱 SLINK - RDV Clients")
 st.subheader("Fidélisation & Audits Mensuels")
 
----
 
 # 1. IDENTIFICATION CLIENT
 st.write("### 👥 Informations Client")
