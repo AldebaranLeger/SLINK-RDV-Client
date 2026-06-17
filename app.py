@@ -28,7 +28,7 @@ st.markdown("""
     html, body, [data-testid="stAppViewContainer"] {
         font-family: 'Figtree', sans-serif !important;
         background-color: var(--mint-cream) !important;
-        color: var(--jet-black);
+        color: var(--jet-black) !important;
     }
     
     h1, h2, h3 { color: var(--jet-black) !important; }
