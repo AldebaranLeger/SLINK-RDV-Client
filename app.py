@@ -49,7 +49,6 @@ st.markdown(f"""
 
 final_next_date = st.date_input("Confirmer la date du prochain RDV", next_suggested_date)
 
----
 
 # 3. NOTES ET ENREGISTREMENT AUDIO
 st.write("### 📝 Déroulement de la Réunion")
@@ -73,7 +72,6 @@ else:
         st.session_state.audio_ready = True
         st.rerun()
 
----
 
 # 4. COMPTE-RENDU AUTOMATIQUE (IA)
 st.write("### 🤖 Intelligence Artificielle SLINK")
