@@ -20,7 +20,7 @@ st.markdown("""
     <style>
     html, body, [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
         font-family: 'Figtree', sans-serif !important;
-        background-color: #FFFFFF !important;
+        background-color: #F2545B !important;
     }
     .stTabs [data-baseweb="tab"] {
         font-family: 'Figtree', sans-serif !important;
